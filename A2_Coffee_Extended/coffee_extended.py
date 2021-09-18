@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  8 14:20:17 2021
 
-@author: ruggerobelluomo (6898009), brunorodrigues (3929736), nelsonvanduin (1195875), kimbutter (1715607)
+@authors: ruggerobelluomo, brunorodrigues, nelsonvanduin, kimbutter
 """
 
 import pandas as pd
