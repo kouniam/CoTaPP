@@ -1,6 +1,6 @@
 # CoTaPP
 
-This repository contains four example projects of Python scripting. These were done for the course *Computational Thinking and Programming in Python*.
+This repository contains four example projects of Python scripting. These were done for the course *Computational Thinking and Programming with Python*.
 
 * A1_Text_Quizz - This is a simple text based quizz game that is meant to highlight conditional scripting. It was fun to make and also includes a leaderboard.
 * A2_Coffee_Extended - A script that was meant to create pairings for online casual chats (since COVID deprived us of random coffee meetings).
